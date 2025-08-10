@@ -21,5 +21,6 @@
 
 
 ### 🌟 Projects
+- [**Portfolio**](https://github.com/bhangunavi/Portfolio_N): A modern, interactive portfolio website showcasing expertise in MERN Stack, AI Integration, and Java DSA.
 - [**Doctors App**](https://github.com/bhangunavi/Doctors): A React-based app with Firebase integration for managing doctor appointments.
 - [**Infinite Scroll**](https://github.com/bhangunavi/INFINITE-SCROLL): A seamless infinite scrolling experience using the Unsplash API.
