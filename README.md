@@ -9,8 +9,7 @@
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working on **MERN projects** and **AI-powered solutions**  
-- 🌱 Learning **Java programming** & mastering **advanced DSA**  
+- 🔭 Currently working on **MERN projects**
 - ⚡ Passionate about building **interactive, animated, and optimized** web applications  
 
 ---
@@ -19,7 +18,6 @@
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
